@@ -17,6 +17,6 @@ Busco sempre aprimorar meus conhecimentos, me atualizar com novas tecnologias e 
 Adoro trocar ideias sobre tecnologia, programação e inovação! Se quiser colaborar em projetos ou apenas bater um papo, não hesite em entrar em contato:  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sergiocaminitti/)    
-- 🌍 [Portfolio/Website Pessoal](#)  
+- 🌍 [Portfolio/Website Pessoal]([#](https://sergiocaminitti.github.io/))  
 - ✉️ [E-mail](sergiocaminitti@gmail.com)
 - 📂 [GitHub](https://github.com/SergioCaminitti)  
